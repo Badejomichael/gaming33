@@ -145,7 +145,7 @@ function displayCategories(categories) {
                 </p>
               </div>
 
-              <a href="./game-categories-pages/${category.name}.html" class="btn btn-outline-light">View Games</a>
+              <a href="./${category.name}.html" class="btn btn-outline-light">View Games</a>
             </div>
           </div>
       `;
